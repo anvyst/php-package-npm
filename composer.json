@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "qobo/cakephp-utils": "dev-master"
+        "qobo/cakephp-utils": "^6.0"
     }
 }
