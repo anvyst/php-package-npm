@@ -12,6 +12,6 @@
     "minimum-stability": "dev",
     "require": {
         "qobo/cakephp-utils": "^6.0",
-        "eloquent/composer-npm-bridge": "dev-master"
+        "eloquent/composer-npm-bridge": "^4.0"
     }
 }
