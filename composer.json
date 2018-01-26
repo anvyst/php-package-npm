@@ -1,0 +1,16 @@
+{
+    "name": "anvyst/php-package-npm",
+    "description": "Test PHP with package.json",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Vystavkin",
+            "email": "jujav4ik@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "qobo/cakephp-utils": "dev-master"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "php-package-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anvyst/php-package-npm.git",
+  "author": "Andrey Vystavkin <jujav4ik@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "rrule": "^2.2.0",
+    "vue": "^2.5.13"
+  }
+}
